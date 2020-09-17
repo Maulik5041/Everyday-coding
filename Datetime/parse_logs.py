@@ -6,8 +6,6 @@
 
 
 import requests
-import re
-import dateutil.parser
 from datetime import datetime
 
 
